@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mario Castellanos - Software Dev</title>
+    <title>Mario Castellanos - Infra Dev</title>
     <link>https://codergolem.github.io/</link>
-    <description>Recent content on Mario Castellanos - Software Dev</description>
+    <description>Recent content on Mario Castellanos - Infra Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Aug 2019 12:11:44 -0500</lastBuildDate>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://codergolem.github.io/posts/my-first-post/</link>
+      <title>My First Index</title>
+      <link>https://codergolem.github.io/</link>
       <pubDate>Wed, 14 Aug 2019 12:11:44 -0500</pubDate>
       
-      <guid>https://codergolem.github.io/posts/my-first-post/</guid>
+      <guid>https://codergolem.github.io/</guid>
       <description></description>
     </item>
     
